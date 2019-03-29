@@ -1,2 +1,6 @@
-# -google-glass-site-design
+# google-glass-site-design
 This project simulates a web site about the product google glasse, was produced through the html course of the channel video course, was the first site not responsive created by me.
+# Tecnologies used:
+* HTML5
+* CSS3
+* Javascript
